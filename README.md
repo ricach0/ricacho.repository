@@ -6,3 +6,4 @@
 <img width="1905" height="947" alt="Captura de tela 2026-02-27 111831" src="https://github.com/user-attachments/assets/123990e3-534d-440d-b237-fccac39fc0c0" />
 
 # Pastas Aulas
+<img width="1919" height="971" alt="image" src="https://github.com/user-attachments/assets/e18d900d-a234-4b5c-8614-3528b9b6a9fb" />
